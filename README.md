@@ -41,6 +41,9 @@ Can be found on Telegram as [TGN 💞](https://t.me/TGN_RO_BOT)</br>
 ## 🅓🅔🅟🅛🅞🅨
 [![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gprose1234gmail/moon.git)
 
+## 🅓🅔🅟🅛🅞🅨
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://railway.app/new/template?template= https://github.com/gprose1234gmail/moon.git)
+
 
 ## 🆅🅴🆁🅸🅰🅱🅻🅴🆂
 [ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
