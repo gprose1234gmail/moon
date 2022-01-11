@@ -95,7 +95,7 @@ buttons = [
         InlineKeyboardButton(
             
             
-            text="S̸͍͎̮̫̺͚̲͂̓̈́̈́̀̑̕͠ư̶̢̱͎̬͇͚̰͓̹͚̫̮̩̘͈͊̐̈́̉̋̌̊͐p̷͍̰̝̓̄̾̏̐̀͌̋̂͠͝͠p̶͇̈́͊̈́͑͒o̸͎̣̦̪̿̈̒̂̏͒̋r̸̡̨̢̢̩͔̪͙̤̰̱̪͉̪̠͒͐̒͠t̶̨͎̬͖̫́ ⚡", url=f"https://t.me/lunasupportz"
+            text="support ⚡", url=f"https://t.me/lunasupportz"
         ),
     ],
     [
@@ -103,7 +103,7 @@ buttons = [
         InlineKeyboardButton(
             
             
-            text="M̸̘͕̞͑́̆͛̍͒̏̿̽̽ơ̷̡̝̺̤̰̹̫͒͆̀̓ǫ̴̮̰̲̈̀̅̏͌̐̉̏̕̚n̴̫̎́̌́͑̕͝͝", url=f"https://t.me/tamilchating_fed"
+            text="moon", url=f"https://t.me/tamilchating_fed"
         ),
     ],
     [
